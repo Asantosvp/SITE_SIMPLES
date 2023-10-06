@@ -1,0 +1,12 @@
+body {
+   background-color:#ffffe0 ;
+}
+
+#title, #subtitle, #post_title {
+    color:black
+}
+
+#post_title {
+    font-size: 16px;
+    font-style: italic;
+}
